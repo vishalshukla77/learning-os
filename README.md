@@ -12,7 +12,8 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [saikumarseepana](https://github.com/saikumarseepana)
 - [jayant-baid](https://github.com/jayant-baid)
 - [anamika133m](https://github.com/anamika133m)
-- [g-rashmi](https://github.com/g-rashmi) 
+- [g-rashmi](https://github.com/g-rashmi)
+- [vishal shukla](https://github.com/vishalshukla77)
   
 # skills to learn
 - HTML
